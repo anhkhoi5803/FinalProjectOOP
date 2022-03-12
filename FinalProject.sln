@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeFactory.Business", "BikeFactory.Business\BikeFactory.Business.csproj", "{3D6BA508-DC63-4200-AF59-5E8BA4FDD37B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeFactory.UI", "BikeFactory.UI\BikeFactory.UI.csproj", "{5F0DD1CD-DB80-42B9-86F2-43BA86E4219A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6BA508-DC63-4200-AF59-5E8BA4FDD37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6BA508-DC63-4200-AF59-5E8BA4FDD37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6BA508-DC63-4200-AF59-5E8BA4FDD37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6BA508-DC63-4200-AF59-5E8BA4FDD37B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0DD1CD-DB80-42B9-86F2-43BA86E4219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0DD1CD-DB80-42B9-86F2-43BA86E4219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0DD1CD-DB80-42B9-86F2-43BA86E4219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0DD1CD-DB80-42B9-86F2-43BA86E4219A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB77AD90-3DE9-45E4-B3F6-35A45AD6B470}
+	EndGlobalSection
+EndGlobal
