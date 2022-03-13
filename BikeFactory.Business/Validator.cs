@@ -19,5 +19,10 @@ namespace BikeFactory.Business
             string serialEx = @"^\d$";
             return new Regex(serialEx).IsMatch(str);
         }
+        public bool checkYear(string str)
+        {
+            string yearEx = @"^\d{4}$";
+            return new Regex(yearEx).IsMatch(str);
+        }
     }
 }
